@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/er-buffs/static/css/main.e6c13ad2.css",
+    "main.js": "/er-buffs/static/js/main.47ac3a5d.js",
+    "static/js/787.74b540e9.chunk.js": "/er-buffs/static/js/787.74b540e9.chunk.js",
+    "index.html": "/er-buffs/index.html",
+    "main.e6c13ad2.css.map": "/er-buffs/static/css/main.e6c13ad2.css.map",
+    "main.47ac3a5d.js.map": "/er-buffs/static/js/main.47ac3a5d.js.map",
+    "787.74b540e9.chunk.js.map": "/er-buffs/static/js/787.74b540e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.47ac3a5d.js"
+  ]
+}
